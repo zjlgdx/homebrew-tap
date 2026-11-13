@@ -1,8 +1,8 @@
 class Parlance < Formula
   desc "Rewrite prompts and explain coding agents' output"
   homepage "https://github.com/zjlgdx/parlance"
-  url "https://github.com/zjlgdx/parlance/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "262faf5d43de178967a0b4bec1644f493b64983a35f6403f48c483cab7cd7bcd"
+  url "https://github.com/zjlgdx/parlance/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "8e5e75db68e3f2cef9cab22874d8ceb102635ef42a2ba619e78b6b044fee5495"
   license "GPL-3.0-or-later"
 
   depends_on macos: :sequoia
